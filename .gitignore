@@ -1,0 +1,14 @@
+# Mac OS X
+#
+.DS_Store
+
+# Theos
+#
+*.o
+*.md
+*.stamp
+*.deb
+_
+.theos
+obj
+tmp
